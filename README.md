@@ -2,14 +2,14 @@
 
 ---
 
-# @faustbrian/stdlint
+# @faustbrian/node-stdlint
 
-[![npm version](https://badgen.net/npm/v/@faustbrian/stdlint)](https://npm.im/@faustbrian/stdlint)
+[![npm version](https://badgen.net/npm/v/@faustbrian/node-stdlint)](https://npm.im/@faustbrian/node-stdlint)
 
 ## Installation
 
 ```
-pnpm install @faustbrian/stdlint
+pnpm install @faustbrian/node-stdlint
 ```
 
 ## License
