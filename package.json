@@ -1,6 +1,6 @@
 {
     "name": "@faustbrian/node-stdlint",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "An @eslint executor with a TypeScript configuration",
     "homepage": "https://github.com/faustbrian/node-stdlint",
     "bugs": {
